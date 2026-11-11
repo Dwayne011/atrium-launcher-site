@@ -1,6 +1,6 @@
 # Atrium Launcher
 
-A calm Android home screen with smart cards, folders, widgets, search and a news feed.
+An Android launcher with smart cards, folders, widgets, search and a news feed.
 
 - A row of cards for what matters now: weather, your next event with travel time, parcels, scores, stocks, music, and your loyalty cards and tickets when you arrive.
 - Folders with tabs, stackable widgets, an agenda widget and a battery widget for your Bluetooth devices.
