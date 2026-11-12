@@ -1,6 +1,6 @@
 # Atrium Launcher: Privacy Policy
 
-*Last updated: 11 November 2026.*
+*Last updated: 12 November 2026.*
 
 Atrium Launcher ("Atrium", "the app") is an Android home screen made by Dwayne Edwards.
 Contact: dwayne.edwards89@googlemail.com
@@ -52,7 +52,7 @@ including the Limited Use requirements.
 
 - **Mail accounts added with an app password (IMAP):** the address and password are stored on your
   phone and used only to sign in to that mail provider.
-- **eToro, GNews and NewsData keys:** stored on your phone and sent only to that service. They are
+- **eToro keys:** stored on your phone and sent only to eToro. They are
   never written to a backup file.
 
 ## Services Atrium contacts
@@ -68,7 +68,7 @@ website does, and handles it under its own privacy policy.
 | Prices and markets | Yahoo Finance, Nasdaq | The symbols you follow |
 | eToro portfolio | eToro | Your eToro keys |
 | Sports | ESPN, OpenF1, Jolpica, Formula 1 live timing | The teams and competitions you follow |
-| News feed | Atrium's news service (hosted on Cloudflare), publishers' own feeds, Google News, and GNews or NewsData if you add a key | The topics you chose. No account or device identifier. |
+| News feed | Atrium's news service (hosted on Cloudflare), publishers' own feeds and Google News | The topics you chose. No account or device identifier. |
 | Web search suggestions | Google, Bing | What you type in the search box, when web suggestions are on |
 | Mail | Google, or your mail provider | Your sign-in, as described above |
 
